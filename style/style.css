@@ -56,7 +56,7 @@ nav li a{
     right: 0;
     top: 131px;
     bottom: 4462px;
-    background-image: url("./assets/Hero-bg.png");
+    background-image: url("../assets/Hero-bg.png");
 }
 #hero .hero-content{
     width: 685px;
